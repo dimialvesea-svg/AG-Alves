@@ -1,0 +1,6 @@
+{
+  "name": "AG Alves – Consultoria e Marketing",
+  "description": "Consultoria estratégica e marketing digital para pequenas e médias empresas em todo o Brasil. Solicite seu diagnóstico estratégico gratuito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
